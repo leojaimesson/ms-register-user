@@ -8,4 +8,4 @@ This microservice consumes the data from [user_database](https://github.com/leoj
 
 ## Happy path sequence diagram
 
-<img src = "./docs/diagrams/register-user.drawio.svg" alt="Sequence diagram"/>
+<img src = "./docs/img/happy-path-sequence-diagram.drawio.png" alt="happy path sequence diagram"/>
